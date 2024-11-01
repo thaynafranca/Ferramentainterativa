@@ -1,6 +1,6 @@
 criaCartao(
     'Programação',
-    'O que é html?'
+    'O que é html?',
     'É uma linguagem de marcação',
 )
 
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'Quem criou o html?',
-    'Tin Berners-Lee'
+    'Tin Berners-Lee',
 )
 
 criaCartao(
