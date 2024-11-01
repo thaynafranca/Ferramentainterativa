@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que é html?'
-    'É uma linguagem de marcação'
+    'É uma linguagem de marcação',
 )
 
 criaCartao(
