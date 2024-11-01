@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'Oque significa www',
+    'Oque significa www?',
     'www é a sigla para world wide ou, em português, "Rede de alcance Mundial"'
 )
 
